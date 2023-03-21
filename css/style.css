@@ -179,6 +179,7 @@ body {
   }
   body {
     position: absolute;
+    justify-content: center;
     margin-top: 20rem;
     margin-right: 18rem;
     transform: scale(75%);
